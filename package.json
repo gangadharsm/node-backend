@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "node express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangadharsm/node-backend.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "passportjs"
+  ],
+  "author": "Gangadhara S M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangadharsm/node-backend/issues"
+  },
+  "homepage": "https://github.com/gangadharsm/node-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
